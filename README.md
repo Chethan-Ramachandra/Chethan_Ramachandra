@@ -6,7 +6,7 @@ Current work includes research into fraud detection using neural-network-based a
 
 This GitHub showcases projects focused on analytical methodology, model evaluation, experimentation and practical outcomes.
 
-## Area of Interests
+## Area of Interest
 
 - Machine Learning
 - Deep Learning
