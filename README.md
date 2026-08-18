@@ -4,7 +4,7 @@ MSc Data Science and Analytics student with interests in Machine Learning, Deep 
 
 Current work includes research into fraud detection using neural-network-based approaches and machine learning applications for real-world decision-making.
 
-## Current Interests
+## Area of Interests
 
 - Machine Learning
 - Deep Learning
