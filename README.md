@@ -2,7 +2,7 @@
 
 MSc Data Science and Analytics student with interests in Machine Learning, Deep Learning, Statistical Modelling, Computer Vision and Operational Research.
 
-Current work includes research into fraud detection using neural-network-based approaches and machine learning applications for real-world decision-making.
+Current work includes research into machine learning applications for fraud detection and data-driven decision-making.
 
 This GitHub showcases projects focused on analytical methodology, model evaluation, experimentation and practical outcomes.
 
