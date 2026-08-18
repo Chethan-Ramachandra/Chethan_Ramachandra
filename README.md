@@ -2,7 +2,7 @@
 
 MSc Data Science and Analytics student with interests in Machine Learning, Deep Learning, Statistical Modelling, Computer Vision and Operational Research.
 
-My GitHub focuses on projects that demonstrate data analysis, model development, experimentation, optimisation and evidence-based decision making.
+Current work includes research into fraud detection using neural-network-based approaches and machine learning applications for real-world decision-making.
 
 ## Current Interests
 
