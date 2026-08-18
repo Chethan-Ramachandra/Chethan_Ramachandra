@@ -6,7 +6,7 @@ Current work includes research into machine learning applications for fraud dete
 
 This GitHub showcases projects focused on analytical methodology, model evaluation, experimentation and practical outcomes.
 
-## Area of Interest
+## Areas of Interest
 
 - Machine Learning
 - Deep Learning
